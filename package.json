@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jsoncombine": "^1.0.2"
+  }
+}
